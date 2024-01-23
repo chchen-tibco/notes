@@ -1,0 +1,46 @@
+Fri Jan 19 05:44:44 PM EST 2024
+  Cluster: dp-cluster-bwpunedemo
+  CreationTime: "2024-01-09T08:37:50.453Z"
+  DesiredCapacity: 0
+----------
+  Cluster: dp-cluster-puneteam
+  CreationTime: "2024-01-08T09:48:35.862Z"
+  DesiredCapacity: 0
+----------
+Fri Jan 19 09:00:19 PM EST 2024
+  Cluster: dp-cluster-bwpunedemo
+  CreationTime: "2024-01-09T08:37:50.453Z"
+  DesiredCapacity: 0
+----------
+  Cluster: dp-cluster-frpei
+  CreationTime: "2023-12-26T19:07:40.515Z"
+  DesiredCapacity: 0
+----------
+  Cluster: dp-cluster-puneteam
+  CreationTime: "2024-01-08T09:48:35.862Z"
+  DesiredCapacity: 0
+----------
+  Cluster: dp-cluster-pvaidya
+  CreationTime: "2023-11-08T23:47:04.214Z"
+  DesiredCapacity: 2
+----------
+  Cluster: dp-cluster-pvaidya1
+  CreationTime: "2024-01-16T17:55:35.527Z"
+  DesiredCapacity: 2
+----------
+  Cluster: dp-cluster-sivat
+  CreationTime: "2023-12-19T04:06:12.762Z"
+  DesiredCapacity: 0
+----------
+  Cluster: dp-cluster-sponnusa
+  CreationTime: "2024-01-17T00:46:33.042Z"
+  DesiredCapacity: 2
+----------
+  Cluster: dp-cluster-ssarode
+  CreationTime: "2024-01-09T15:03:46.651Z"
+  DesiredCapacity: 0
+----------
+  Cluster: dp-cluster-ssingh
+  CreationTime: "2023-12-06T15:19:42.986Z"
+  DesiredCapacity: 0
+----------
